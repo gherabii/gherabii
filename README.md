@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active directory home lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Network Vulnerability Scanning with Nmap](https://github.com/MohamedElAmineGherabi/Network-Vulnerability-Scanning-with-Nmap)
 
 
 <h2>📜 Certifications</h2>
