@@ -1,8 +1,10 @@
 <h1>Hi, I'm Amine! <br/><a  <a href="https://linkedin.com/in/mohamedelaminegherabi/">Enthusiastic Certified Cybersecurity Practitioner</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Labs & Projects:</h2>
 
 - [Network Vulnerability Scanning with Nmap](https://github.com/MohamedElAmineGherabi/Network-Vulnerability-Scanning-with-Nmap)
+- [Monitoring and Detection with Splunk](https://github.com/MohamedElAmineGherabi/Network-Vulnerability-Scanning-with-Nmap)
+
 
 
 <h2>📜 Certifications</h2>
