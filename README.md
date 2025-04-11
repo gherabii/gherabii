@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Labs & Projects:</h2>
 
-- [Network Vulnerability Scanning with Nmap](https://github.com/MohamedElAmineGherabi/Network-Vulnerability-Scanning-with-Nmap)
 - [Monitoring and Detection with Splunk](https://github.com/MohamedElAmineGherabi/Network-Vulnerability-Scanning-with-Nmap)
+- [Network Vulnerability Scanning with Nmap](https://github.com/MohamedElAmineGherabi/Network-Vulnerability-Scanning-with-Nmap)
 
 
 
