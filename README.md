@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Labs & Projects:</h2>
 
-- [Monitoring and Detection with Splunk (SIEM)](https://github.com/MohamedElAmineGherabi/Monitoring-and-Detection-with-Splunk)
+- [Monitoring, Detection, Analysis, Reporting, and Visualization with Splunk (SIEM)](https://github.com/MohamedElAmineGherabi/Monitoring-and-Detection-with-Splunk)
 - [Network Vulnerability Scanning with Nmap](https://github.com/MohamedElAmineGherabi/Network-Vulnerability-Scanning-with-Nmap)
 
 
