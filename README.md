@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Labs & Projects:</h2>
 
-- [Simulating Network Attacks then Detecting them using Wireshark](https://github.com/MohamedElAmineGherabi/Monitoring-and-Detection-with-Splunk)
+- [Simulating Network Attacks then Detecting them using Wireshark](https://github.com/MohamedElAmineGherabi/Simulating-Network-Attacks-then-Detecting-them-using-Wireshark)
 - [Monitoring, Detection, Analysis, Reporting, and Visualization with Splunk (SIEM)](https://github.com/MohamedElAmineGherabi/Monitoring-and-Detection-with-Splunk)
 - [Network Vulnerability Scanning with Nmap](https://github.com/MohamedElAmineGherabi/Network-Vulnerability-Scanning-with-Nmap)
 
