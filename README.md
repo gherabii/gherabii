@@ -1,13 +1,11 @@
 <h1>Hi, I'm Amine! <br/><a  <a href="https://linkedin.com/in/mohamedelaminegherabi/">Certified Cloud & Cybersecurity Practitioner</a>
 
-<h2>👨‍💻 Cybersecurity Labs & Projects:</h2>
+<h2>👨‍💻 Cloud & Cybersecurity Labs & Projects:</h2>
 
 - [OWASP ZAP: Web Application Security Testing with OWASP ZAP](https://github.com/MohamedElAmineGherabi/Web-Application-Security-Testing-with-OWASP-ZAP)
 - [Wireshark: Simulating Network Attacks then Detecting them using Wireshark](https://github.com/MohamedElAmineGherabi/Simulating-Network-Attacks-then-Detecting-them-using-Wireshark)
 - [Splunk: Monitoring, Detection, Analysis, Reporting, and Visualization with Splunk (SIEM)](https://github.com/MohamedElAmineGherabi/Monitoring-and-Detection-with-Splunk)
 - [Nmap: Network Vulnerability Scanning with Nmap](https://github.com/MohamedElAmineGherabi/Network-Vulnerability-Scanning-with-Nmap)
-
-
 
 <h2>📜 Certifications</h2>
 
