@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Cloud & Cybersecurity Labs & Projects:</h2>
 
+- [Azure VM & Web Server Deployment with Bastion Access](https://github.com/MohamedElAmineGherabi/Azure-VM-Web-Server-Deployment-with-Bastion-Access)
 - [OWASP ZAP: Web Application Security Testing with OWASP ZAP](https://github.com/MohamedElAmineGherabi/Web-Application-Security-Testing-with-OWASP-ZAP)
 - [Wireshark: Simulating Network Attacks then Detecting them using Wireshark](https://github.com/MohamedElAmineGherabi/Simulating-Network-Attacks-then-Detecting-them-using-Wireshark)
 - [Splunk: Monitoring, Detection, Analysis, Reporting, and Visualization with Splunk (SIEM)](https://github.com/MohamedElAmineGherabi/Monitoring-and-Detection-with-Splunk)
