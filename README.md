@@ -11,11 +11,10 @@
 
 <h2>📜 Certifications</h2>
 
+- [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/users/mohamedelaminegherabi-4608/credentials/18496b9ce0c10f3f?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - [CompTIA Security+ Complete Course & Exam](https://www.udemy.com/certificate/UC-64a0ce58-78a6-4bdf-9298-ee148e8b049e/)
-- [Google Cybersecurity Professional Cert.](https://coursera.org/share/c0eebc3ed1c73018433d0530b88685d6)
-- [Automate Cybersecurity Tasks with Python](https://coursera.org/share/7453b004462702831411c9d62516175b)
-- [Tools of the Trade: Linux and SQL in Cybersecurity](https://coursera.org/share/3cf618d01aa7507240be2ed61f35afd6)
-- [Networks and Network Security](https://coursera.org/share/eee14e4de91855d7fe7e9ac4bd7a6223)
+- [Google Cybersecurity Professional](https://coursera.org/share/c0eebc3ed1c73018433d0530b88685d6)
+  
 
 <h2> 🤳 Connect with me:</h2>
 
