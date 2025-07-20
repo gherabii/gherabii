@@ -15,6 +15,9 @@
 - [CompTIA Security+ Complete Course & Exam](https://www.udemy.com/certificate/UC-64a0ce58-78a6-4bdf-9298-ee148e8b049e/)
 - [Google Cybersecurity Professional](https://coursera.org/share/c0eebc3ed1c73018433d0530b88685d6)
   
+<h2>🔍 My Articles & Researches</h2>
+
+- [The Impact of Cybersecurity in Digital Marketing and Sales Management](https://coursera.org/share/c0eebc3ed1c73018433d0530b88685d6)
 
 <h2> 🤳 Connect with me:</h2>
 
