@@ -17,7 +17,7 @@
   
 <h2>🔍 My Articles & Researches</h2>
 
-- [The Impact of Cybersecurity in Digital Marketing and Sales Management](https://coursera.org/share/c0eebc3ed1c73018433d0530b88685d6)
+- [The Impact of Cybersecurity in Digital Marketing and Sales Management](https://github.com/MohamedElAmineGherabi/The-Impact-of-Cybersecurity-in-Digital-Marketing-and-Sales-Management)
 
 <h2> 🤳 Connect with me:</h2>
 
