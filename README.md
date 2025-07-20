@@ -11,8 +11,11 @@
 
 <h2>📜 Certifications</h2>
 
+- [Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)](https://learn.microsoft.com/api/credentials/share/en-us/MohamedElAmineGherabi-4608/406F8FE88E031FB3?sharingId=1C061686C5612A97)
 - [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/users/mohamedelaminegherabi-4608/credentials/18496b9ce0c10f3f?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - [CompTIA Security+ Complete Course & Exam](https://www.udemy.com/certificate/UC-64a0ce58-78a6-4bdf-9298-ee148e8b049e/)
+- [ISC2 Certified in Cybersecurity (CC)](https://coursera.org/share/f442f48734990798e174395cdb6ce780)
+- [Microsoft Cybersecurity Analyst](https://coursera.org/share/c0eebc3ed1c73018433d0530b88685d6)
 - [Google Cybersecurity Professional](https://coursera.org/share/c0eebc3ed1c73018433d0530b88685d6)
   
 <h2>🔍 My Articles & Researches</h2>
