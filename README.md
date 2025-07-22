@@ -1,4 +1,4 @@
-<h1>Hi, I'm Amine! <br/><a  <a href="https://linkedin.com/in/mohamedelaminegherabi/">Certified Cloud & Cybersecurity Professional</a>
+<h1>Hi, I'm Amine! <br/><a  <a href="https://linkedin.com/in/gherabi/">Certified Cloud & Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cloud & Cybersecurity Labs & Projects:</h2>
 
@@ -26,7 +26,7 @@
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="50px" src="https://i.imgur.com/8YmD4pm.png" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/mohamedelaminegherabi
+[linkedin]: https://linkedin.com/in/gherabi
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
