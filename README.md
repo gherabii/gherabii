@@ -1,9 +1,10 @@
 <h1>Hi, I'm Amine! <br/><a  <a href="https://linkedin.com/in/gherabi/">Certified Cloud & Cybersecurity Professional</a>
 
-<h2>👨‍💻 Cloud & Cybersecurity Labs & Projects:</h2>
+<h2>👨‍💻 Cloud & Cybersecurity Labs & Projects:</h2>  
 
-- [Azure: Implementing Microsoft Azure Backup](https://github.com/MohamedElAmineGherabi/Implementing-Microsoft-Azure-Backup)
-- [Azure: Azure VM & Web Server Deployment with Bastion Access](https://github.com/MohamedElAmineGherabi/Azure-VM-Web-Server-Deployment-with-Bastion-Access)
+- [Ensuring Compliance with Azure Policies](https://github.com/MohamedElAmineGherabi/Ensuring-Compliance-with-Azure-Policies)
+- [Implementing Microsoft Azure Backup](https://github.com/MohamedElAmineGherabi/Implementing-Microsoft-Azure-Backup)
+- [Azure VM & Web Server Deployment with Bastion Access](https://github.com/MohamedElAmineGherabi/Azure-VM-Web-Server-Deployment-with-Bastion-Access)
 - [OWASP ZAP: Web Application Security Testing with OWASP ZAP](https://github.com/MohamedElAmineGherabi/Web-Application-Security-Testing-with-OWASP-ZAP)
 - [Wireshark: Simulating Network Attacks then Detecting them using Wireshark](https://github.com/MohamedElAmineGherabi/Simulating-Network-Attacks-then-Detecting-them-using-Wireshark)
 - [Splunk: Monitoring, Detection, Analysis, Reporting, and Visualization with Splunk (SIEM)](https://github.com/MohamedElAmineGherabi/Monitoring-and-Detection-with-Splunk)
