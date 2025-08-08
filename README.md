@@ -1,6 +1,6 @@
-<h1>Hi, I'm Amine! <br/><a  <a href="https://linkedin.com/in/gherabi/">Certified Cloud & Cybersecurity Professional</a>
+<h1>Hi, I'm Amine! <br/><a  <a href="https://linkedin.com/in/gherabi/">Certified Cybersecurity Professional</a>
 
-<h2>👨‍💻 Cloud & Cybersecurity Labs & Projects:</h2>  
+<h2>👨‍💻 Cybersecurity Labs & Projects:</h2>  
 
 - [Ensuring Compliance with Azure Policies](https://github.com/MohamedElAmineGherabi/Ensuring-Compliance-with-Azure-Policies)
 - [Implementing Microsoft Azure Backup](https://github.com/MohamedElAmineGherabi/Implementing-Microsoft-Azure-Backup)
