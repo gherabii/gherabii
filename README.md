@@ -1,4 +1,4 @@
-<h1>Hi, I'm Amine! <br/><a  <a href="https://linkedin.com/in/gherabi/">ESM Consultant | Cloud Infra & Cybersecurity</a>
+<h1>Hi, I'm Amine! <br/><a  <a href="https://linkedin.com/in/gherabi/">ESM Consultant | ESM Consultant | Cybersecurity & Cloud Infra</a>
 
 <h2>👨‍💻 Cybersecurity Labs & Projects:</h2>  
 
