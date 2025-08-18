@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Labs & Projects:</h2>  
 
-- [Assessing Password Policy Compliance](https://github.com/MohamedElAmineGherabi/Password-Policy-Compliance)
+- [Assessing Password Policy Compliance (PCI DSS)](https://github.com/MohamedElAmineGherabi/Password-Policy-Compliance)
 - [Ensuring Compliance with Azure Policies](https://github.com/MohamedElAmineGherabi/Ensuring-Compliance-with-Azure-Policies)
 - [Implementing Microsoft Azure Backup](https://github.com/MohamedElAmineGherabi/Implementing-Microsoft-Azure-Backup)
 - [Azure VM & Web Server Deployment with Bastion Access](https://github.com/MohamedElAmineGherabi/Azure-VM-Web-Server-Deployment-with-Bastion-Access)
