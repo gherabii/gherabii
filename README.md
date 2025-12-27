@@ -13,6 +13,7 @@
 
 <h2>📜 Certifications</h2>
 
+- [Microsoft 365 Certified: Fundamentals (MS-900)](https://learn.microsoft.com/en-us/users/mohamedelaminegherabi-4608/credentials/cfc903b4ffc6f1d4?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - [Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/users/mohamedelaminegherabi-4608/credentials/ad400013128d9e4c)
 - [Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)](https://learn.microsoft.com/api/credentials/share/en-us/MohamedElAmineGherabi-4608/406F8FE88E031FB3?sharingId=1C061686C5612A97)
 - [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/users/mohamedelaminegherabi-4608/credentials/18496b9ce0c10f3f?ref=https%3A%2F%2Fwww.linkedin.com%2F)
