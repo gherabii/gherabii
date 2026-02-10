@@ -1,4 +1,4 @@
-<h1>Hi, I'm Amine! <br/><a  <a href="https://linkedin.com/in/gherabi/">GRC Expert | Information Security </a>
+<h1>Hi, I'm Amine! <br/><a  <a href="https://linkedin.com/in/gherabi/">GRC Expert | Information Security | GRC Engineering & Automation </a>
 
 <h2>👨‍💻 Cybersecurity Labs & Projects:</h2>  
 
